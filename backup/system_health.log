@@ -1,0 +1,8 @@
+2024-09-13 12:17:17,206 - INFO - System Health Check Started
+2024-09-13 12:17:18,216 - WARNING - High Memory Usage: 93.1%
+2024-09-13 12:17:18,227 - INFO - Number of Running Processes: 322
+2024-09-13 12:17:18,231 - INFO - System Health Check Completed
+2024-09-13 12:25:31,368 - WARNING - High Memory Usage: 86.7%
+2024-09-13 12:25:31,376 - INFO - Number of Running Processes: 321
+2024-09-13 12:25:31,376 - INFO - Waiting for 120 seconds before the next check...
+2024-09-13 12:26:18,481 - INFO - System Health Check Stopped
